@@ -1,0 +1,1 @@
+A web app implementation of the popular Simon Says game. This is a game which utilizes and improves our short-term memory skill, by creating a series of tones and lights in a specific sequence which the user must then repeat. With each correct sequence the user enters, the sequence gets longer increasing difficulty. Technology used: JavaScript, HTML, CSS
